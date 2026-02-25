@@ -1,1 +1,1 @@
-# multi_resolution
+# Multi-Resolution Stochastic Volatility Model
